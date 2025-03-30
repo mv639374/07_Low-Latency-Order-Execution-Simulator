@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/OrderSimulator.dir/src/main.cpp.o CMakeFiles/OrderSimulator.dir/src/order_simulator.cpp.o -o OrderSimulator  /usr/lib/x86_64-linux-gnu/libzmq.so -lpthread 

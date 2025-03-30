@@ -1,3 +1,0 @@
-/home/mohitiitb25/Desktop/Github/07_Low-Latency-Order-Execution-Simulator/build/CMakeFiles/OrderSimulator.dir
-/home/mohitiitb25/Desktop/Github/07_Low-Latency-Order-Execution-Simulator/build/CMakeFiles/edit_cache.dir
-/home/mohitiitb25/Desktop/Github/07_Low-Latency-Order-Execution-Simulator/build/CMakeFiles/rebuild_cache.dir
